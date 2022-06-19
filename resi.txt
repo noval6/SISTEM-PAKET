@@ -1,0 +1,3 @@
+{'A123456': ['Jl Pekanbaru', 'Terkirim', 'Cash On Delivery'], 
+'A12345621': ['Jl Jakarta', 'Belum Sampai', 'Transfer'], 
+'A1234569': ['Jl Papua', 'Terkirim', 'Transfer']}
